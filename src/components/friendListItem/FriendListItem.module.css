@@ -1,0 +1,23 @@
+.item{ 
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 10px;
+	width: 240px;
+	padding: 10px;
+	background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 1.95px 8px;
+	
+}
+
+.status{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: palevioletred;
+     
+}
+
+  .true{
+	background-color: green;
+}
